@@ -383,6 +383,9 @@ ILCE-7SM2:
   arch: CXD90014
   model: 0x51030041
   apps: '2.14'
+ILCE-7SM3:
+  arch: CXD90057
+  model: 0x51420037
 ILCE-9:
   arch: CXD90045
   model: 0x71030011
